@@ -9,4 +9,5 @@ MUSIC GENRE CLASSIFICATION
 
 •	Conducted extensive exploratory data analysis (EDA) and feature engineering to identify the most important audio and textual features for classification and developed comprehensive data pre-processing pipelines to prepare audio and text data.
 
+![Dashboard Image](https://github.com/tejaswidabas123/BERTunes-Classifier/blob/main/Music.png)
 
